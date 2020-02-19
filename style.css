@@ -1,0 +1,29 @@
+.container{
+    background-color: rgb(60, 137, 156);
+    padding-bottom: 200px;
+    padding-top: 50px; 
+ 
+}
+
+
+.fon-white{
+    background-color: rgb(236, 236, 236);
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+}
+
+.window-error-message{
+    width: 500px;
+    height: 100px; 
+
+}
+
+.row{
+    z-index: 1;
+}
+
+.error-message{
+    color: red; 
+    font-size: 12px; 
+}
+
